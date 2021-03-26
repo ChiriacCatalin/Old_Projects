@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1496596181 source:f:\sfl-joc\hanoi\hanoi.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<bits/stdc++.h>
+

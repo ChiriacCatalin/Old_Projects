@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1579034135 source:d:\codeblocks\bridgit\bridgit\main.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<mmsystem.h>
+
